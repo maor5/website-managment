@@ -1,0 +1,10 @@
+<?php
+	$products = array(
+		['id'=>1,'name'=>"Adidas_loca", 'price'=> "99"  , 'description'=> "Flexible shoes with breathable stripes Elasticated breathable genuine leather striped shoes.", 'img'=> "https://www.anerobi.co.il/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/3/f36199_01_standard.jpg"],
+		['id'=>3,'name'=>"Adidas_pola", 'price'=> "80" , 'description'=> "Flexible shoes with breathable stripes Elasticated breathable genuine leather striped shoes.", 'img'=> "https://www.anerobi.co.il/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/a/q/aq0337_01_standard.jpg"],
+		['id'=>4,'name'=>"Adidas_maor", 'price'=>  "87" , 'description'=> "Flexible shoes with breathable stripes Elasticated breathable genuine leather striped shoes.", 'img'=> "https://www.anerobi.co.il/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/f/3/f36392_01_standard.jpg"],
+		['id'=>5,'name'=>"Adidas_glori", 'price'=> "76" , 'description'=> "Flexible shoes with breathable stripes Elasticated breathable genuine leather striped shoes.", 'img'=> "https://www.anerobi.co.il/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/e/f/ef0101_01_standard.jpg"],
+		['id'=>6,'name'=>"Adidas_adi", 'price'=> "99" , 'description'=> "Flexible shoes with breathable stripes Elasticated breathable genuine leather striped shoes.", 'img'=> "https://www.anerobi.co.il/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/b/4/b43510_01_standard.jpg"],
+        ['id'=>7,'name'=>"Adidas_kids", 'price'=>  "29" , 'description'=>"Flexible shoes with breathable stripes Elasticated breathable genuine leather striped shoes.",'img'=> "https://www.anerobi.co.il/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/e/g/eg3890_01_standard_1.jpg"]
+
+    );
